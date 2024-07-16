@@ -1,2 +1,2 @@
 # Story
-## Story is branch practice
+## Story is branch practice.
